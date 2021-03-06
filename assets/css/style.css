@@ -4,7 +4,7 @@
  "Mike Dane", "w3schools", et al.
  */
 
-/* .backclass {
+.backclass {
   background-image:url(/assets/images/default.png)
 }
 
@@ -72,7 +72,7 @@
   padding-left:     30px;
   font-size:        1.1em;
   font-weight:      bold;
-} */
+} 
 
 /* .youtube {
   float:            left;
@@ -103,7 +103,7 @@
   padding-right:    10px;
 }  */
 
-/* .row:after {
+.row:after {
   content: "";
   display: table;
   clear: both;
@@ -139,7 +139,7 @@ pre {
   color:         #b5e853;
   font-size:     0.7em; 
   border-radius: 2px;
-} */
+} 
 
 /*
   ZCZC
