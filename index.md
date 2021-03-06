@@ -1,6 +1,5 @@
 ---
 layout: "layout"
-permalink: layout
 ---
 
 Hello!
