@@ -10,5 +10,15 @@ ZCZC W01 45 L05 GSGS about setting SSH
 ZCZC W01 40 L03 Github related: setting github in linux
 ZCZC W01 90 L22 Youtube: watching UFC
 ZCZC W01 120 L01 SCELE related: pop quiz in tuesday and thursday
- 
+ZCZC W02 70 L02 ZOOM CLASS
+ZCZC W02 60 L12 Generate a GnuPG Key Pair
+ZCZC W02 60 L12 Import and export public key
+ZCZC W02 10 L12 Rank 10 next closest neighbors
+ZCZC W02 40 L12 Write BashScript
+ZCZC W02 90 L12 Create top 10 list of week 02
+ZCZC W02 30 L01 quiz on scele
+ZCZC W02 60 L07 trying demo week 2
+ZCZC W02 60 L09 asking asdos about assignment 2
+ZCZC W02 60 L22 watching UFC
+ZCZC W02 70 L25 Reading article about C-language  
 
