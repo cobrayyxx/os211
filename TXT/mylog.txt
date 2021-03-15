@@ -20,5 +20,4 @@ ZCZC W02 30 L01 quiz on scele
 ZCZC W02 60 L07 trying demo week 2
 ZCZC W02 60 L09 asking asdos about assignment 2
 ZCZC W02 60 L22 watching UFC
-ZCZC W02 70 L25 Reading article about C-language  
-
+ZCZC W02 70 L25 Reading article about C-language
