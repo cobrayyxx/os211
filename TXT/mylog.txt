@@ -12,7 +12,8 @@ ZCZC W01 90 L22 Youtube: watching UFC
 ZCZC W01 120 L01 SCELE related: pop quiz in tuesday and thursday
 ZCZC W02 70 L02 ZOOM CLASS
 ZCZC W02 60 L14 Generate a GnuPG Key Pair
-ZCZC W02 60 L15 Import and export public key
+ZCZC W02 30 L15 Import public key
+ZCZC W02 30 L16 export public key
 ZCZC W02 10 L17 Rank 10 next closest neighbors
 ZCZC W02 40 L19 Write BashScript
 ZCZC W02 90 L18 Create top 10 list of week 02
