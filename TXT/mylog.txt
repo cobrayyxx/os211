@@ -22,3 +22,19 @@ ZCZC W02 60 L07 trying demo week 2
 ZCZC W02 60 L09 asking asdos about assignment 2
 ZCZC W02 60 L22 watching UFC
 ZCZC W02 70 L25 Reading article about C-language
+ZCZC W03 40 L00 General Log
+ZCZC W03 60 L01 SCELE related
+ZCZC W03 100 L02 Zoom Class
+ZCZC W03 70 L05 GSGS about assignment
+ZCZC W03 60 L11 READ OSC-10
+ZCZC W03 65 L12 Try some demos week 02 and 03
+ZCZC W03 25 L13 check bash_aliases
+ZCZC W03 25 L14 Review 10 next neighbour W02
+ZCZC W03 90 L15 Make TOP 10 List of week 03
+ZCZC W03 30 L16 Update Log
+ZCZC W03 60 L17 Download FUSE and tarballed
+ZCZC W03 40 L18 Update bash script
+ZCZC W03 10 L19 Make SHA256SUM and sign it
+ZCZC W03 60 L09 Asking about assignment
+ZCZC W03 20 L04 Setting GitHub pages
+ZCZC W03 30 L06 Reading article about file
