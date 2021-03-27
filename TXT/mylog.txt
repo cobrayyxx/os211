@@ -38,3 +38,15 @@ ZCZC W03 10 L19 Make SHA256SUM and sign it
 ZCZC W03 60 L09 Asking about assignment
 ZCZC W03 20 L04 Setting GitHub pages
 ZCZC W03 30 L06 Reading article about file
+ZCZC W04 60 L11 Reading PPT
+ZCZC W04 30 L12 Try demo week 4
+ZCZC W04 20 L13 Review top 10 list neighbour
+ZCZC W04 90 L14 Create top 10 list week 4
+ZCZC W04 20 L15 Update log
+ZCZC W04 40 L16 doing assignment 6
+ZCZC W04 20 L17 Update bash script
+ZCZC W04 20 L18 Make SHA256SUM and sign it 
+ZCZC W04 90 L02 ZOOM  class
+ZCZC W04 60 L09 Asking Asdos about assignment
+ZCZC W04 30 L23 Discord quiz
+ZCZC W04 45 L21 Trying SSH to os211.vlsm.org
