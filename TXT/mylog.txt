@@ -50,3 +50,13 @@ ZCZC W04 90 L02 ZOOM  class
 ZCZC W04 60 L09 Asking Asdos about assignment
 ZCZC W04 30 L23 Discord quiz
 ZCZC W04 45 L21 Trying SSH to os211.vlsm.org
+ZCZC W05 100 L02 ZOOM class
+ZCZC W05 30 L01 QUIZ
+ZCZC W05 30 L23 QUIZ
+ZCZC W05 60 L11 READ powerpoint
+ZCZC W05 25 L12 top 3 neighbour W04 web
+ZCZC W05 90 L13 Top 10 list of W05
+ZCZC W05 40 L14 DO assignment 4
+ZCZC W05 40 L15 update Log
+ZCZC W05 120 L05 GSGS about virtual memory
+ZCZC W05 100 L07 Demo TOP, Set Lower RAM Size in debian, and sending photo from windows to Debian
