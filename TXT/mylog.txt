@@ -63,7 +63,6 @@ ZCZC W05 100 L07 Demo TOP, Set Lower RAM Size in debian, and sending photo from 
 ZCZC W06 30 L01 quiz on scele
 ZCZC W06 30 L01 quiz on scele
 ZCZC W06 100 L02 ZOOM class
-ZCZC W06 100 L02 ZOOM class
 ZCZC W06 100 L11 Read OSC10 chapter 03 and 04
 ZCZC W06 30 L12 review neighbours week 5
 ZCZC W06 90 L13 create TOP 10 List of week 6
