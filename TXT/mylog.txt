@@ -60,3 +60,16 @@ ZCZC W05 40 L14 DO assignment 4
 ZCZC W05 40 L15 update Log
 ZCZC W05 120 L05 GSGS about virtual memory
 ZCZC W05 100 L07 Demo TOP, Set Lower RAM Size in debian, and sending photo from windows to Debian
+ZCZC W06 30 L01 quiz on scele
+ZCZC W06 30 L01 quiz on scele
+ZCZC W06 100 L02 ZOOM class
+ZCZC W06 100 L02 ZOOM class
+ZCZC W06 100 L11 Read OSC10 chapter 03 and 04
+ZCZC W06 30 L12 review neighbours week 5
+ZCZC W06 90 L13 create TOP 10 List of week 6
+ZCZC W06 40 L14 do assignment 4
+ZCZC W06 30 L15 update log
+ZCZC W06 100 L16 make SHA256SUM and sign it
+ZCZC W06 60 L05 GSGS threads
+ZCZC W06 30 L06 Reading powerpoint
+ZCZC W06 30 L07 Demo C
