@@ -72,3 +72,12 @@ ZCZC W06 100 L16 make SHA256SUM and sign it
 ZCZC W06 60 L05 GSGS threads
 ZCZC W06 30 L06 Reading powerpoint
 ZCZC W06 30 L07 Demo C
+ZCZC W07 90 L11 Reading powerpoint
+ZCZC W07 25 L12 review TOP 10 List neighbors
+ZCZC W07 90 L13 make TOP 10 List W07
+ZCZC W07 60 L14 do assignment 4
+ZCZC W07 15 L15 update log
+ZCZC W07 10 L16 make SHA256SUM and sign it 
+ZCZC W07 60 L07 try demo code
+ZCZC W07 100 L02 ZOOM class
+ZCZC W07 10 L04 setting page W07
