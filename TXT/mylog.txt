@@ -81,3 +81,14 @@ ZCZC W07 10 L16 make SHA256SUM and sign it
 ZCZC W07 60 L07 try demo code
 ZCZC W07 100 L02 ZOOM class
 ZCZC W07 10 L04 setting page W07
+ZCZC W08 40 L11 Reading powerpoint
+ZCZC W08 60 L12 review TOP 10 List neighbors and make TOP 10 List W07
+ZCZC W08 120 L13 Do build LFS chapter 1-4
+ZCZC W08 60 L14 Tarballed W08
+ZCZC W08 15 L15 update log
+ZCZC W08 10 L16 make SHA256SUM and sign it 
+ZCZC W08 100 L02 ZOOM class
+ZCZC W08 10 L04 setting page W08
+ZCZC W08 45 L05 GSGS about LFS
+ZCZC w08 60 L01 QUIZ on scele
+ZCZC W08 40 L21 setting OVA for LFS
