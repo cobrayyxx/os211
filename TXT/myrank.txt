@@ -20,3 +20,6 @@ ZCZC W06 ekojsalim
 ZCZC W07 dnswd
 ZCZC W07 csq307
 ZCZC W07 dirtboll
+ZCZC W08 cornelita 
+ZCZC W08 dirtboll 
+ZCZC W08 dewa251202 
